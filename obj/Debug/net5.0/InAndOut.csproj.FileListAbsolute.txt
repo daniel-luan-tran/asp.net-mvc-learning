@@ -844,3 +844,5 @@ C:\Users\UserDLT\OneDrive\WebDev\InAndOut\obj\Debug\net5.0\InAndOut.pdb
 C:\Users\UserDLT\OneDrive\WebDev\InAndOut\obj\Debug\net5.0\InAndOut.genruntimeconfig.cache
 C:\Users\UserDLT\OneDrive\WebDev\InAndOut\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
 C:\Users\UserDLT\OneDrive\WebDev\InAndOut\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\UserDLT\OneDrive\WebDev\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Index.cshtml.g.cs
+C:\Users\UserDLT\OneDrive\WebDev\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Create.cshtml.g.cs
