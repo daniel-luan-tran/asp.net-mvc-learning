@@ -7249,19 +7249,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UserDLT\\.nuget\\packages\\": {}
+    "C:\\Users\\LuanTran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserDLT\\OneDrive\\WebDev\\InAndOut\\InAndOut.csproj",
+      "projectUniqueName": "C:\\Users\\LuanTran\\OneDrive\\WebDev\\InAndOut\\InAndOut.csproj",
       "projectName": "InAndOut",
-      "projectPath": "C:\\Users\\UserDLT\\OneDrive\\WebDev\\InAndOut\\InAndOut.csproj",
-      "packagesPath": "C:\\Users\\UserDLT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserDLT\\OneDrive\\WebDev\\InAndOut\\obj\\",
+      "projectPath": "C:\\Users\\LuanTran\\OneDrive\\WebDev\\InAndOut\\InAndOut.csproj",
+      "packagesPath": "C:\\Users\\LuanTran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LuanTran\\OneDrive\\WebDev\\InAndOut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\UserDLT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LuanTran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
